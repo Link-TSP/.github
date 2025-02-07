@@ -68,8 +68,4 @@ Stay updated and follow our journey on social media:
 
 ---
 
-## 🚀 Join Our Journey
-
-This GitHub organization represents our commitment to innovation and excellence. Explore our projects, contribute, and be a part of the digital transformation revolution!
-
 © 2025 **Link TSP**. All Rights Reserved.
